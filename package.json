@@ -9,11 +9,21 @@
     "type": "git",
     "url": "git+https://github.com/aleastChs/reactjs-snake-game.git"
   },
-  "keywords": ["snake", "aleastChs"],
+  "keywords": [
+    "snake",
+    "aleastChs"
+  ],
   "author": "aleastChs",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aleastChs/reactjs-snake-game/issues"
   },
-  "homepage": "https://github.com/aleastChs/reactjs-snake-game#readme"
+  "homepage": "https://github.com/aleastChs/reactjs-snake-game#readme",
+  "devDependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "webpack": "^4.16.0",
+    "webpack-cli": "^3.0.8",
+    "webpack-dev-server": "^3.1.4"
+  }
 }
