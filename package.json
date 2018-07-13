@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-snake-game",
+  "version": "0.0.1",
+  "description": "A classic game with react.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleastChs/reactjs-snake-game.git"
+  },
+  "keywords": ["snake", "aleastChs"],
+  "author": "aleastChs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleastChs/reactjs-snake-game/issues"
+  },
+  "homepage": "https://github.com/aleastChs/reactjs-snake-game#readme"
+}
